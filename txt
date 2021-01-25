@@ -1,0 +1,17 @@
+<div class="hr-content-2">
+            <h3>WordPress Support and Maintenance from Professionals</h3>
+            <h6 class="maintenance">
+              We can help you with any WordPress Maintenance. Contact us via
+              email and <br />
+              one of our WordPress experts will unravel the issue quickly. With
+              our prompt <br />
+              support and quick fixes, you will save time and stress less.
+              <br />
+              
+            </h6>
+
+            <a href="#">View Our WordPress Support & Maintenance Plan</a>
+          </div>
+          <div class="middle-image">
+            <img src="/images/nabin.PNG" alt="" />
+          </div>
